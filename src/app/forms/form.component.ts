@@ -41,6 +41,7 @@ export class formComponent {
     }
   }
   // hello vijay;
+  //comment added test
   submit() {
     this.onSubmit();
     this.router.navigateByUrl('/home');
