@@ -40,7 +40,7 @@ export class formComponent {
       console.log(this.loginForm.value);
     }
   }
-
+  // hello vijay;
   submit() {
     this.onSubmit();
     this.router.navigateByUrl('/home');
